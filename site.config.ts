@@ -2,19 +2,19 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'fb8329d494134cecb0a22e89a6db1174',
+  rootNotionPageId: '34b222557c6b480fbc262c6aa550f148',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'X-BOBÕES',
-  domain: 'xboboes.vercel.app',
-  author: 'Bobões',
+  name: 'LETS',
+  domain: 'www.lets.org.br',
+  author: 'LETS',
 
   // open graph metadata (optional)
-  description: 'Repositório de +10 anos de amizade.',
+  description: 'Laboratório Educacional de Tecnologias Sociais',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
