@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Bobões',
 
   // open graph metadata (optional)
-  // description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Repositório de +10 anos de amizade.',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
