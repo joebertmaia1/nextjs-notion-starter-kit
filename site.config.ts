@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'X-BOBÕES',
-  domain: 'xboboes.onreader.com',
+  domain: 'xboboes.vercel.app',
   author: 'Bobões',
 
   // open graph metadata (optional)
